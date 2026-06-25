@@ -1,6 +1,6 @@
 [project]
 name = "visual-understand-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "视觉理解 MCP Server - 为不支持视觉的编码模型提供图片理解能力"
 readme = "README.md"
 requires-python = ">=3.10"
